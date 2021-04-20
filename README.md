@@ -7,21 +7,9 @@ A Happiness Gopher ...
 
 ## Main Project
 
-<p align="center">
-    <a href="https://github.com/shit-hub/shit-hub.github.io">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?theme=buefy&username=shit-hub&repo=shit-hub.github.io" />
-    </a>
-    <a href="https://github.com/shit-hub/blog">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=buefy&username=shit-hub&repo=blog" />
-    </a>
-</p>
-
-<!--
 [![HomePage](https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=shit-hub.github.io)](https://github.com/shit-hub/shit-hub.github.io)
 
 [![blog](https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=blog)](https://github.com/shit-hub/blog)
--->
-
 
 ## Summary
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=shit-hub&hide_title=true&show_icons=true&theme=buefy&hide_border=true)
