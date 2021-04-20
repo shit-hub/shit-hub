@@ -9,10 +9,8 @@ A Happiness gopher ...
 ## Main Project
 <p>
     <a href="https://github.com/shit-hub/shit-hub.github.io">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=shit-hub.github.io" />
-    </a>
-    <a href="https://github.com/shit-hub/blog">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=blog" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=shit-hub.github.io" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=blog" />
     </a>
 </p>
 
