@@ -9,7 +9,7 @@ A Happiness Gopher ...
 
 [![HomePage](https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=shit-hub.github.io)](https://github.com/shit-hub/shit-hub.github.io)
 
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=blog)](https://github.com/shit-hub/blog)
+[![note](https://github-readme-stats.vercel.app/api/pin/?username=shit-hub&repo=note)](https://github.com/shit-hub/note)
 
 ## Summary
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=shit-hub&hide_title=true&show_icons=true&theme=buefy&hide_border=true)
